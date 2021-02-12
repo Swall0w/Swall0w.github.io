@@ -6,7 +6,7 @@ layout: default
 # Biography
 Masato Fujitake is a second-year Ph.D. student in information science and technology particularly interested in artificial intelligence, computer vision, and machine learning.
 He is a member of the Computer Vision and Discrete Geometry Group (Sugimoto Laboratory) at the National Institute of Informatics (NII), Japan.
-Machine Perception Group (Nakayama Laboratory) at the University of Tokyo, which he joined in 2014.
+
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
 he earned his bachelor and master’s degree in robotics and information science at the 
 Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
@@ -34,11 +34,27 @@ Recently, he has been interested in video object detection using deep neural net
 
 
 
-# Publications with peer review
+# Publications
+## Journal (refereed)
+## International Conference (refereed)
+- Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video
+<details><summary>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In **ICPR**, 2020.</summary><div>
+Video object detection is challenging and essential in practical applications, such as surveillance cameras for traffic control and public security.
+Unlike the video in natural scenes,
+the surveillance video tends to contain dense and small objects (typically vehicles) in their appearances.
+Therefore, existing methods for surveillance object detection utilize still-image object detection approaches with rich feature extractors at the expense of their run-time speeds.
+The run-time speed, however, becomes essential when the video is being streamed.
+In this paper, we exploit temporal information in videos to enrich the feature maps, proposing the first temporal attention based external memory network for the live stream of video.
+Extensive experiments on real-world traffic surveillance benchmarks demonstrate the real-time performance of the proposed model while keeping comparable accuracy with state-of-the-art.
+</div></details>
+## International Conference (unrefereed or workshop)
+## Domestic Conference (In Japanese)
 
-# Publications without peer review
 
-# Awards
+# Contacts
+## SNS
+- GitHub [@Swall0w](https://github.com/Swall0w)
+- Twitter [@Swall0wTech](https://twitter.com/Swall0wTech)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
