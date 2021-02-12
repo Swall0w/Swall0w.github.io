@@ -37,8 +37,8 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 ## Journal (refereed)
 ## International Conference (refereed)
-<details><summary>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In International Conference on Pattern Recognition (ICPR), 2020.
-</summary><div>
+<details><summary>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In International Conference on Pattern Recognition (ICPR), 2020.</summary><div>
+
 ## Abstract
 Video object detection is challenging and essential in practical applications, such as surveillance cameras for traffic control and public security.
 Unlike the video in natural scenes,
@@ -50,6 +50,7 @@ Extensive experiments on real-world traffic surveillance benchmarks demonstrate 
 </div></details>
 
 <details><summary>Masato Fujitake and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.</summary><div>
+
 ## Abstract
 This paper describes the development of a robust object recognition system which combines object's parts, for automatic construction equipment tracking camera on unmanned construction site. Although a construction equipment operator monitors manually and operates construction equipment through captured surveillance camera video in the worksite of unmanned construction, they need an automatic tracking system for construction equipment in order to work efficiently. Since there is difficulty of automation such as some parts of construction equipment are not captured in the video because of construction works, we have developed a robust system which recognizes construction equipment using combination of their parts. Before we start making whole system, we developed object recognition algorithm for construction equipment. The object: construction equipment, recognition algorithm discussed in this paper is developed based on estimating its type by combining its parts found in an image. This system has three features to realize the process: part extraction step, part recognition step and part combination step. The part extraction step extracts object candidates including parts of construction equipment from an input image. In the part recognition step, they are recognized and labeled. The part combination step combines the labeled data and estimates construction equipment's type using neural networks. Experimental results show that the system which combines parts of construction equipment is able to estimate its type even if some parts of it are hidden. We also describe its improvement in terms of the processing time.
 </div></details>
