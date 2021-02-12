@@ -37,8 +37,16 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 ## Journal (refereed)
 ## International Conference (refereed)
-- Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video
-<details><summary>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In **ICPR**, 2020.</summary><div>
+<details><summary><div>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In **ICPR**, 2020.</div></summary><div>
+Video object detection is challenging and essential in practical applications, such as surveillance cameras for traffic control and public security.
+Unlike the video in natural scenes,
+the surveillance video tends to contain dense and small objects (typically vehicles) in their appearances.
+Therefore, existing methods for surveillance object detection utilize still-image object detection approaches with rich feature extractors at the expense of their run-time speeds.
+The run-time speed, however, becomes essential when the video is being streamed.
+In this paper, we exploit temporal information in videos to enrich the feature maps, proposing the first temporal attention based external memory network for the live stream of video.
+Extensive experiments on real-world traffic surveillance benchmarks demonstrate the real-time performance of the proposed model while keeping comparable accuracy with state-of-the-art.
+</div></details>
+<details><summary><div>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In **ICPR**, 2020.</div></summary><div>
 Video object detection is challenging and essential in practical applications, such as surveillance cameras for traffic control and public security.
 Unlike the video in natural scenes,
 the surveillance video tends to contain dense and small objects (typically vehicles) in their appearances.
