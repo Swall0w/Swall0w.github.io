@@ -21,13 +21,13 @@ Recently, he has been interested in video object detection using deep neural net
 - Video Analysis
 
 ## Education
-PhD in Information Science and Technology, present
+- PhD in Information Science and Technology, present
 _The Graduate University for Advanced Studies, SOKENDAI_
 
-Master of Electrical, Electronic and Communications Engineering, 2019
+- Master of Electrical, Electronic and Communications Engineering, 2019
 _Shibaura Institute of Technology, Tokyo_
 
-Bachelor of Electrical Engineering Technologies, 2017
+- Bachelor of Electrical Engineering Technologies, 2017
 _Shibaura Institute of Technology, Tokyo_
 
 
