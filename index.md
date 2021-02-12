@@ -10,10 +10,34 @@ Machine Perception Group (Nakayama Laboratory) at the University of Tokyo, which
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
 he earned his bachelor and master’s degree in robotics and information science at the 
 Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
+
 His research focuses on computer vision, in particular on understanding and processing of recognition and object detection in videos.
 Recently, he has been interested in video object detection using deep neural networks.
 
+## Interests
+- Computer Vision
+- Machine Learning
+- Artifical Intelligence
+- Video Analysis
 
+## Education
+PhD in Information Science and Technology, present
+_The Graduate University for Advanced Studies, SOKENDAI_
+
+Master of Electrical, Electronic and Communications Engineering, 2019
+_Shibaura Institute of Technology, Tokyo_
+
+Bachelor of Electrical Engineering Technologies, 2017
+_Shibaura Institute of Technology, Tokyo_
+
+
+
+
+# Publications with peer review
+
+# Publications without peer review
+
+# Awards
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
