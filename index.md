@@ -56,8 +56,9 @@ This paper describes the development of a robust object recognition system which
 
 
 # Contacts
-## Official
-- E-mail: fujitake _at_ nii.ac.jp
+## E-Mail
+- fujitake _at_ nii.ac.jp
+
 ## SNS
 - [Github](https://github.com/Swall0w)
 - [Twitter](https://twitter.com/Swall0wTech)
