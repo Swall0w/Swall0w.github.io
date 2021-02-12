@@ -2,6 +2,20 @@
 layout: default
 ---
 
+
+# Biography
+Masato Fujitake is a second-year Ph.D. student in information science and technology particularly interested in artificial intelligence, computer vision, and machine learning.
+He is a member of the Computer Vision and Discrete Geometry Group (Sugimoto Laboratory) at the National Institute of Informatics (NII), Japan.
+Machine Perception Group (Nakayama Laboratory) at the University of Tokyo, which he joined in 2014.
+Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
+he earned his bachelor and master’s degree in robotics and information science at the 
+Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
+His research focuses on computer vision, in particular on understanding and processing of recognition and object detection in videos.
+Recently, he has been interested in video object detection using deep neural networks.
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
