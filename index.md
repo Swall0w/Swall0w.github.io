@@ -11,7 +11,7 @@ Before commencing his graduate studies at the Graduate University for Advanced S
 he earned his bachelor and master’s degree in robotics and information science at the 
 Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
 
-His research focuses on computer vision, in particular on understanding and processing of recognition and object detection in videos.
+His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
 Recently, he has been interested in video object detection using deep neural networks.
 
 ## Research Interests
