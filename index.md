@@ -37,6 +37,15 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 ## Journal (refereed)
 ## International Conference (refereed)
+<details><summary>Masato Fujitake and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.</summary><div>
+
+This paper proposes a method that jointly learns to detect objects at the current frame and forecast the next frame's future feature map.
+Previous offline detectors have shown the effectiveness of utilizing future information in video object detection; however, we cannot take such an approach when dealing with live streaming videos.
+In contrast, we utilize the forecast feature map with the current and past frame feature maps for object detection, where forecast feature maps are learned using observation of the present and past frames.
+To maintain a reliable forecast, we introduce a scheduler network, which decides whether we use the forecast feature map as input or extract the feature map from the next frame.
+Evaluations of our proposed model on the ImageNet VID dataset demonstrate the superior performance of our model against the public benchmark at similar architectures, with achieving 65.7% mAP at 38.9 fps.
+</div></details>
+
 <details><summary>Masato Fujitake and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In International Conference on Pattern Recognition (ICPR), 2020.</summary><div>
 
 Video object detection is challenging and essential in practical applications, such as surveillance cameras for traffic control and public security.
