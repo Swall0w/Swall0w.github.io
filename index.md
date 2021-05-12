@@ -6,6 +6,7 @@ layout: default
 # Biography
 Masato Fujitake is a third-year Ph.D. student in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
 He is a Computer Vision and Discrete Geometry Group (Sugimoto Laboratory) member at the National Institute of Informatics (NII), Japan.
+He is a member of IEEE.
 
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
 he earned his bachelor and master’s degree in robotics and information science at the 
