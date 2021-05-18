@@ -15,6 +15,14 @@ Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
 His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
 Recently, he has been interested in video object detection using deep neural networks.
 
+## News (Past year)
+- 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
+- 2021/01: Our paper "Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video" has been published in ICPR2020! See you in online!
+
+
+
+
+
 ## Research Interests
 - Computer Vision
 - Machine Learning
@@ -31,12 +39,14 @@ Recently, he has been interested in video object detection using deep neural net
 <dd>Shibaura Institute of Technology, Tokyo</dd>
 </dl>
 
+## Work Experience
+- Research Assistant, 2020/05 ~ present,  National Institute of Informatics, Japan
 
 
 
 
 # Publications
-## Journal (refereed)
+
 ## International Conference (refereed)
 - **Masato Fujitake** and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.
 
