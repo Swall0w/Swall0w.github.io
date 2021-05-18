@@ -29,19 +29,6 @@ Recently, he has been interested in video object detection using deep neural net
 - Artifical Intelligence
 - Video Analysis
 
-## Education
-<dl>
-<dt>PhD in Information Science and Technology, present</dt>
-<dd>The Graduate University for Advanced Studies, SOKENDAI</dd>
-<dt>Master of Electrical, Electronic and Communications Engineering, 2019</dt>
-<dd>Shibaura Institute of Technology, Tokyo</dd>
-<dt>Bachelor of Electrical Engineering Technologies, 2017</dt>
-<dd>Shibaura Institute of Technology, Tokyo</dd>
-</dl>
-
-## Work Experience
-- Research Assistant, 2020/05 ~ present,  National Institute of Informatics, Japan
-
 
 
 
@@ -55,6 +42,20 @@ Recently, he has been interested in video object detection using deep neural net
 
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
 
+
+
+# Education
+<dl>
+<dt>PhD in Information Science and Technology, present</dt>
+<dd>The Graduate University for Advanced Studies, SOKENDAI</dd>
+<dt>Master of Electrical, Electronic and Communications Engineering, 2019</dt>
+<dd>Shibaura Institute of Technology, Tokyo</dd>
+<dt>Bachelor of Electrical Engineering Technologies, 2017</dt>
+<dd>Shibaura Institute of Technology, Tokyo</dd>
+</dl>
+
+# Work Experience
+- Research Assistant, 2020/05 ~ present,  National Institute of Informatics, Japan
 
 
 
