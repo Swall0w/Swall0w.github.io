@@ -16,6 +16,7 @@ His research focuses on computer vision, particularly on understanding and proce
 Recently, he has been interested in video object detection using deep neural networks.
 
 ## News (Past year)
+- 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
 - 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
 - 2021/01: Our paper "Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video" has been published in ICPR2020! See you in online!
 
