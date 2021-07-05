@@ -37,6 +37,7 @@ Recently, he has been interested in video object detection using deep neural net
 
 ## International Conference (refereed)
 - **Masato Fujitake** and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.
+  - [PDF](pdfs/ICME2021_1316.pdf)
 
 - **Masato Fujitake** and Akihiro Sugimoto. Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video. In International Conference on Pattern Recognition (ICPR), 2020.
   - [PDF](pdfs/ICPR2020b.pdf)
