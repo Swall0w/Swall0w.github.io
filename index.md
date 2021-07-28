@@ -16,6 +16,7 @@ His research focuses on computer vision, particularly on understanding and proce
 Recently, he has been interested in video object detection using deep neural networks.
 
 ## News (Past year)
+- 2021/07: I have a presentation in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 - 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
 - 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
 - 2021/01: Our paper "Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video" has been published in ICPR2020! See you in online!
@@ -44,6 +45,8 @@ Recently, he has been interested in video object detection using deep neural net
 
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
 
+## Domestic Conference
+- **藤武将人**, 杉本晃宏，特徴マップ予測によるライブストリーム動画物体検出, 画像の認識・理解シンポジウムMIRU2021, 2021.
 
 
 # Education
