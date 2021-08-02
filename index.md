@@ -16,6 +16,7 @@ His research focuses on computer vision, particularly on understanding and proce
 Recently, he has been interested in video object detection using deep neural networks.
 
 ## News (Past year)
+- 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
 - 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 - 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
 - 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
@@ -37,6 +38,7 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 
 ## International Conference (refereed)
+- **Masato Fujitake** and Hongpeng Ge. Temporally-aware Convolutional Block Attention Module for Video Text Detection. In IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
 - **Masato Fujitake** and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.
   - [PDF](pdfs/ICME2021_1316.pdf)
 
