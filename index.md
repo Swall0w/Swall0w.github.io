@@ -16,6 +16,7 @@ His research focuses on computer vision, particularly on understanding and proce
 Recently, he has been interested in video object detection using deep neural networks.
 
 ## News (Past year)
+- 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
 - 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
 - 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 - 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
@@ -46,6 +47,9 @@ Recently, he has been interested in video object detection using deep neural net
   - [PDF](pdfs/ICPR2020b.pdf)
 
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
+
+## International Workshop (refereed)
+- **Masato Fujitake** and Akihiro Sugimoto. Video representation learning through prediction for online object detection. In Real-World Surveillance: Applications and Challenges Workshop (RWS) on Winter Conference on Applications of Computer Vision (WACV), 2022.
 
 ## Domestic Conference
 - **藤武将人**, 杉本晃宏，特徴マップ予測によるライブストリーム動画物体検出, 画像の認識・理解シンポジウムMIRU2021, 2021.
