@@ -39,8 +39,6 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 
 ## International Conference (refereed)
-- **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
-  - [PDF](https://openaccess.thecvf.com/content/WACV2022W/RWS/html/Fujitake_Video_Representation_Learning_Through_Prediction_for_Online_Object_Detection_WACVW_2022_paper.html)
 - **Masato Fujitake** and Hongpeng Ge. Temporally-aware Convolutional Block Attention Module for Video Text Detection. In IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
 - **Masato Fujitake** and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.
   - [PDF](pdfs/ICME2021_1316.pdf)
@@ -51,7 +49,8 @@ Recently, he has been interested in video object detection using deep neural net
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
 
 ## International Workshop (refereed)
-- **Masato Fujitake** and Akihiro Sugimoto. Video representation learning through prediction for online object detection. In Real-World Surveillance: Applications and Challenges Workshop (RWS) on Winter Conference on Applications of Computer Vision (WACV), 2022.
+- **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
+  - [PDF](https://openaccess.thecvf.com/content/WACV2022W/RWS/html/Fujitake_Video_Representation_Learning_Through_Prediction_for_Online_Object_Detection_WACVW_2022_paper.html)
 
 ## Domestic Conference
 - **藤武将人**, 杉本晃宏，特徴マップ予測によるライブストリーム動画物体検出, 画像の認識・理解シンポジウムMIRU2021, 2021.
