@@ -21,7 +21,7 @@ Recently, he has been interested in video object detection using deep neural net
 - 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 - 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
 - 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
-- 2021/01: Our paper "Temporal Feature Enhancement Network with External Memory for Object Detection in Surveillance Video" has been published in ICPR2020! See you in online!
+
 
 
 
@@ -39,6 +39,8 @@ Recently, he has been interested in video object detection using deep neural net
 # Publications
 
 ## International Conference (refereed)
+- **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
+  - [PDF](https://openaccess.thecvf.com/content/WACV2022W/RWS/html/Fujitake_Video_Representation_Learning_Through_Prediction_for_Online_Object_Detection_WACVW_2022_paper.html)
 - **Masato Fujitake** and Hongpeng Ge. Temporally-aware Convolutional Block Attention Module for Video Text Detection. In IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
 - **Masato Fujitake** and Akihiro Sugimoto. Real-time Object Detection by Feature map forecast For Live Streaming Video. In IEEE International Conference on Multimedia and Expo (ICME), 2021.
   - [PDF](pdfs/ICME2021_1316.pdf)
