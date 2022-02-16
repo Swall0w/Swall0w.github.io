@@ -1,4 +1,4 @@
-title: Researcher
+title: Masato FUJITAKE
 url: "https://swall0w.github.io"
 #baseurl: "/"
 #baseurl: "/researcher"
@@ -9,7 +9,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/Swall0w"
 footer_text: "Page design by Ankit Sultana"
 
@@ -20,8 +20,9 @@ sass:
 nav:
  - name: "About"
    link: "index"
-     #   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Publications"
+   link: "publications"
+ # - name: "Resume"
+ #   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
