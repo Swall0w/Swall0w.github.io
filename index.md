@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/face2.jpeg">
 
-Masato Fujitake is a third-year Ph.D. student in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
+Masato Fujitake is a final year Ph.D. student in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
 He is a [Computer Vision and Discrete Geometry Group (Sugimoto Laboratory)](http://www.dgcv.nii.ac.jp/index.html) member at the National Institute of Informatics (NII), Japan.
 He is a member of IEEE.
 
@@ -25,6 +25,7 @@ Recently, he has been interested in video object detection using deep neural net
 - Video Analysis
 
 ## News (Past year)
+- 2022/02: My Ph.D. defense is going to be online. Welcome!![link](https://www.nii.ac.jp/graduate/upload/doctor_thesis_202201.pdf)
 - 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
 - 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
 - 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
