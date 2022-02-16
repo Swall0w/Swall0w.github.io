@@ -4,42 +4,46 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="imgs/face2.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Masato Fujitake is a third-year Ph.D. student in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
+He is a [Computer Vision and Discrete Geometry Group (Sugimoto Laboratory)](http://www.dgcv.nii.ac.jp/index.html) member at the National Institute of Informatics (NII), Japan.
+He is a member of IEEE.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
+he earned his bachelor and master’s degree in robotics and information science at the 
+Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
+
+His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
+Recently, he has been interested in video object detection using deep neural networks.
+
 
 ## Research Interest
+- Computer Vision
+- Machine Learning
+- Artifical Intelligence
+- Video Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## News (Past year)
+- 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
+- 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
+- 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
+- 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
+- 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
 
 ---
 
-Here is a blockquote
+# Education
+<dl>
+<dt>PhD in Information Science and Technology, present</dt>
+<dd>The Graduate University for Advanced Studies, SOKENDAI</dd>
+<dt>Master of Electrical, Electronic and Communications Engineering, 2019</dt>
+<dd>Shibaura Institute of Technology, Tokyo</dd>
+<dt>Bachelor of Electrical Engineering Technologies, 2017</dt>
+<dd>Shibaura Institute of Technology, Tokyo</dd>
+</dl>
 
-> To a great mind, nothing is little
+# Work Experience
+- Research Assistant, 2020/04 ~ present,  National Institute of Informatics, Japan
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
