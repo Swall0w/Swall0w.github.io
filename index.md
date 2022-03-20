@@ -31,7 +31,6 @@ Recently, he has been interested in video object detection using deep neural net
 - 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
 - 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 - 2021/06: I have a presentation in [NII openhouse](https://www.nii.ac.jp/openhouse/)! See you in online!
-- 2021/03: Our paper "**Real-time Object Detection by Feature map forecast For Live Streaming Video**" has been accepted in ICME2021! See you in online!
 
 
 ---
