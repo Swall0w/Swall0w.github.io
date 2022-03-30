@@ -46,5 +46,7 @@ Recently, he has been interested in video object detection using deep neural net
 </dl>
 
 # Work Experience
-- Research Assistant, 2020/04 ~ present,  National Institute of Informatics, Japan
+- Research Engineer, 2016/11 ~ 2022/03,  Fast Accounting, Japan
+- Research Assistant, 2020/04 ~ 2022/02,  National Institute of Informatics, Japan
+- Research Scientist, 2022/04 ~ present, Fast Accounting, Japan
 
