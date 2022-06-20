@@ -5,6 +5,8 @@ layout: default
 # Publications
 
 ## Journal (refereed)
+- **Masato Fujitake** and Akihiro Sugimoto. "Video Sparse Transformer with Attention-guided Memory for Video Object Detection," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3184031.
+  - [LINK](https://ieeexplore.ieee.org/document/9798833)
 - **Masato Fujitake**, Makito Inoue, and Takashi Yoshimi. Development of an Automatic Tracking Camera System Integrating Image Processing and Machine Learning
 . J. Robot. Mechatron., Vol.33, No.6, pp. 1303-1314, 2021.
   -   [LINK](https://www.fujipress.jp/jrm/rb/robot003300061303/)
