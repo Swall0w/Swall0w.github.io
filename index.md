@@ -8,14 +8,14 @@ layout: default
 
 Masato Fujitake received his Ph.D. degree in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
 He was a [Computer Vision and Discrete Geometry Group (Sugimoto Laboratory)](http://www.dgcv.nii.ac.jp/index.html) member at the National Institute of Informatics (NII), Japan.
-He is a member of IEEE.
+He is a member of IEEE and The Association for Natural Language Processing.
 
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
 he earned his bachelor and master’s degree in robotics and information science at the 
 Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
 
 His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
-Recently, he has been interested in video object detection using deep neural networks.
+Recently, he has been interested in object detection and OCR using deep neural networks.
 
 
 ## Research Interest
@@ -23,6 +23,7 @@ Recently, he has been interested in video object detection using deep neural net
 - Machine Learning
 - Artifical Intelligence
 - Video Analysis
+- OCR
 
 ## News (Past year)
 - 2022/06: Our paper "**Temporal feature enhancement network with external memory for live-stream video object detection**" has been accepted in Pattern Recognition Journal!
@@ -31,7 +32,6 @@ Recently, he has been interested in video object detection using deep neural net
 - 2022/02: My Ph.D. defense "**Feature Enhancement using Spatio-Temporal Information for Video Object Detection**" is going to be online. [Welcome!!](https://www.nii.ac.jp/graduate/upload/doctor_thesis_202201.pdf)
 - 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
 - 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
-- 2021/07: I have a presentation about "特徴マップ予測によるライブストリーム動画物体検出" in [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)! See you in online at I12-36!
 
 ---
 
