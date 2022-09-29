@@ -28,6 +28,7 @@ Recently, he has been interested in object detection and OCR using deep neural n
 ## News (Past year)
 - 2022/06: Our paper "**Temporal feature enhancement network with external memory for live-stream video object detection**" has been accepted in Pattern Recognition Journal!
 - 2022/06: Our paper "**Video Sparse Transformer with Attention-guided Memory for Video Object Detection**" has been accepted in IEEE ACCESS!
+- 2022/03: My dissertation, "**Feature Enhancement using Spatio-Temporal Information for Video Object Detection**", is available [online](https://ir.soken.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=6532&item_no=1&page_id=29&block_id=155).
 - 2022/03: I have got Ph.D. degree in Computer Vision. Thank you!
 - 2022/02: My Ph.D. defense "**Feature Enhancement using Spatio-Temporal Information for Video Object Detection**" is going to be online. [Welcome!!](https://www.nii.ac.jp/graduate/upload/doctor_thesis_202201.pdf)
 - 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
