@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [fujitake _at_ nii.ac.jp](mailto:fujitake@nii.ac.jp)
+* Email: [fujitakemasato _at_gmail.com](mailto:fujitakemasato@gmail.com)
 
 
 ---
