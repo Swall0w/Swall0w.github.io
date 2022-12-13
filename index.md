@@ -8,14 +8,14 @@ layout: default
 
 Masato Fujitake received his Ph.D. degree in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
 He was a [Computer Vision and Discrete Geometry Group (Sugimoto Laboratory)](http://www.dgcv.nii.ac.jp/index.html) member at the National Institute of Informatics (NII), Japan.
-He is a member of IEEE and The Association for Natural Language Processing.
-
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
-he earned his bachelor and master’s degree in robotics and information science at the 
-Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
+he earned his bachelor and master’s degree in robotics and information science at the Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
 
 His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
 Recently, he has been interested in object detection and OCR using deep neural networks.
+He is enthusiastic about contributing to open-source projects, such as a model analyzer called [torchstat](https://github.com/Swall0w/torchstat) and a detection error analyzer named [Nobunaga](https://github.com/FastAccounting/nobunaga).
+He is a member of IEEE and The Association for Natural Language Processing.
+He is also a reviewer of IEEE conferences.
 
 
 ## Research Interest
