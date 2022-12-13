@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 <img class="profile-picture" src="imgs/face2.jpeg">
 
@@ -18,25 +18,23 @@ He is a member of IEEE and The Association for Natural Language Processing.
 He is also a reviewer of IEEE conferences.
 
 
-## Research Interest
+## Research Interests
 - Computer Vision
 - Machine Learning
-- Artifical Intelligence
 - Video Analysis
 - OCR
 
-## News (Past year)
+# News (Past year)
+- 2022/10: Our open-source project "**Nobunaga: Object Detection Analyzer**" has been available [github](https://github.com/FastAccounting/nobunaga). It saves your detection error analysis time.
 - 2022/06: Our paper "**Temporal feature enhancement network with external memory for live-stream video object detection**" has been accepted in Pattern Recognition Journal!
 - 2022/06: Our paper "**Video Sparse Transformer with Attention-guided Memory for Video Object Detection**" has been accepted in IEEE ACCESS!
 - 2022/03: My dissertation, "**Feature Enhancement using Spatio-Temporal Information for Video Object Detection**", is available [online](https://ir.soken.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=6532&item_no=1&page_id=29&block_id=155).
 - 2022/03: I have got Ph.D. degree in Computer Vision. Thank you!
 - 2022/02: My Ph.D. defense "**Feature Enhancement using Spatio-Temporal Information for Video Object Detection**" is going to be online. [Welcome!!](https://www.nii.ac.jp/graduate/upload/doctor_thesis_202201.pdf)
-- 2021/11: Our paper "**Video representation learning through prediction for online object detection**" has been accepted in RWS on WACV 2022! See you in offline!
-- 2021/08: Our paper "**Temporally-aware Convolutional Block Attention Module for Video Text Detection**" has been accepted in IEEE SMC 2021! See you in online!
 
 ---
 
-# Education
+# Educations
 <dl>
 <dt>PhD in Information Science and Technology, 2022</dt>
 <dd>The Graduate University for Advanced Studies, SOKENDAI</dd>
