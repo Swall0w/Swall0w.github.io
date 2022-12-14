@@ -29,3 +29,10 @@ layout: default
 
 ## Domestic Conference
 - **藤武将人**, 杉本晃宏，特徴マップ予測によるライブストリーム動画物体検出, 画像の認識・理解シンポジウムMIRU2021, 2021.
+- 井上槙人, **藤武将人**, 吉見卓, 自動更新テンプレートマッチングと深層学習を用いた重機の自動カメラ追従システム, 第19回計測自動制御学会システムインテグレーション部門講演会, 2018.
+- 井上槙人, **藤武将人**, 吉見卓, 機械学習と画像処理を用いた重機の自動カメラ追従システム, 建設施工と建設機械シンポジウム, 2018.
+- **藤武将人**,吉見卓, 部位の組み合わせ学習による現場画像からの重機の種別推定システムの改良, ロボティクス・メカトロニクス講演会講演概要集, 2017.
+
+## Open-source Software
+- [Nobunaga: Object Detection Analyzer](https://github.com/FastAccounting/nobunaga)
+- [torchstat: Model analyzer in PyTorch](https://github.com/Swall0w/torchstat)
