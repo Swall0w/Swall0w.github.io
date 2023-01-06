@@ -6,7 +6,7 @@ layout: default
 
 ## Journal (refereed)
 - **Masato Fujitake** and Akihiro Sugimoto. Video Sparse Transformer with Attention-guided Memory for Video Object Detection. IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3184031.
-  - [LINK](https://ieeexplore.ieee.org/document/9798833)
+  - [LINK](https://ieeexplore.ieee.org/document/9798833), [PDF](./pdfs/Video_Sparse_Transformer_With_Attention-Guided_Memory_for_Video_Object_Detection.pdf)
 - **Masato Fujitake**, Akihiro Sugimoto. Temporal feature enhancement network with external memory for live-stream video object detection. Pattern Recognition, 2022, 108847.
   - [LINK](https://www.sciencedirect.com/science/article/pii/S0031320322003284?dgcid=author), [PDF](./pdfs/1-s2.0-S0031320322003284-main.pdf)
 - **Masato Fujitake**, Makito Inoue, and Takashi Yoshimi. Development of an Automatic Tracking Camera System Integrating Image Processing and Machine Learning
@@ -25,6 +25,7 @@ layout: default
   - [LINK](https://ieeexplore.ieee.org/document/9412056), [PDF](pdfs/ICPR2020b.pdf)
 
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
+  - [LINK](https://ieeexplore.ieee.org/document/8287425)
 
 
 ## Domestic Conference
