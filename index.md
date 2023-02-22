@@ -25,7 +25,7 @@ He is also a reviewer of IEEE conferences.
 - OCR
 
 # News (Past year)
-- 2023/02: Our paper "**VA3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023!
+- 2023/02: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023!
 - 2022/10: Our open-source project "**Nobunaga: Object Detection Analyzer**" has been available at [github](https://github.com/FastAccounting/nobunaga). It saves your detection error analysis time.
 - 2022/06: Our paper "**Temporal feature enhancement network with external memory for live-stream video object detection**" has been accepted in Pattern Recognition Journal!
 - 2022/06: Our paper "**Video Sparse Transformer with Attention-guided Memory for Video Object Detection**" has been accepted in IEEE ACCESS!
