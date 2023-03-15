@@ -6,13 +6,15 @@ layout: default
 
 <img class="profile-picture" src="imgs/face2.jpeg">
 
-Masato Fujitake received his Ph.D. degree in information science and technology, particularly interested in artificial intelligence, computer vision, and machine learning. 
+FUJITAKE Masato is a Co-Founder of Fast Accounting, Ltd., Tokyo, Japan, and Chief Research Scientist of its R&D group, FA Research.
+His technical interests include computer vision, and machine learning, especially document analysis recently.
+
+
+He received his Ph.D. degree in information science and technology.
 He was a [Computer Vision and Discrete Geometry Group (Sugimoto Laboratory)](http://www.dgcv.nii.ac.jp/index.html) member at the National Institute of Informatics (NII), Japan.
 Before commencing his graduate studies at the Graduate University for Advanced Studies, SOKENDAI,
 he earned his bachelor and master’s degree in robotics and information science at the Shibaura Institute of Technology in Tokyo, Japan, where he was born and grew up.
 
-His research focuses on computer vision, particularly on understanding and processing recognition and object detection in videos.
-Recently, he has been interested in object detection and OCR using deep neural networks.
 He is enthusiastic about contributing to open-source projects, such as a model analyzer called [torchstat](https://github.com/Swall0w/torchstat) and a detection error analyzer named [Nobunaga](https://github.com/FastAccounting/nobunaga).
 He is a member of IEEE and The Association for Natural Language Processing.
 He is also a reviewer of IEEE conferences.
@@ -22,7 +24,7 @@ He is also a reviewer of IEEE conferences.
 - Computer Vision
 - Machine Learning
 - Video Analysis
-- OCR
+- Document Analysis
 
 # News (Past year)
 - 2023/02: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023! [arXiv](https://arxiv.org/abs/2302.10641)
