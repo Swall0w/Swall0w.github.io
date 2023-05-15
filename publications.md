@@ -15,7 +15,7 @@ layout: default
 
 ## International Conference (refereed)
 - **Masato Fujitake**. A3S: Adversarial learning of semantic representations for Scene-Text Spotting. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
-  -  [arXiv](https://arxiv.org/abs/2302.10641), [LINK](https://ieeexplore.ieee.org/abstract/document/10096434)
+  -  [arXiv](https://arxiv.org/abs/2302.10641), [LINK](https://ieeexplore.ieee.org/abstract/document/10096434), [PDF](pdfs/A3S_Adversarial_Learning_of_Semantic_Representations_for_Scene-Text_Spotting.pdf)
 - **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
   - [LINK](https://openaccess.thecvf.com/content/WACV2022W/RWS/html/Fujitake_Video_Representation_Learning_Through_Prediction_for_Online_Object_Detection_WACVW_2022_paper.html)
 - **Masato Fujitake** and Hongpeng Ge. Temporally-aware Convolutional Block Attention Module for Video Text Detection. In IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
