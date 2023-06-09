@@ -36,6 +36,10 @@ layout: default
 - 井上槙人, **藤武将人**, 吉見卓, 機械学習と画像処理を用いた重機の自動カメラ追従システム, 建設施工と建設機械シンポジウム, 2018.
 - **藤武将人**,吉見卓, 部位の組み合わせ学習による現場画像からの重機の種別推定システムの改良, ロボティクス・メカトロニクス講演会講演概要集, 2017.
 
+## Award
+- ICASSP 2023: Top 3% Recognition Paper
+- 平成30年度「建設施工と建設機械シンポジウム」論文賞
+
 ## Open-source Software
 - [Nobunaga: Object Detection Analyzer](https://github.com/FastAccounting/nobunaga)
 - [torchstat: Model analyzer in PyTorch](https://github.com/Swall0w/torchstat)
