@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/face2.jpeg">
 
-FUJITAKE Masato is a Co-Founder of Fast Accounting, Ltd., Tokyo, Japan, and Chief Research Scientist of its R&D group, FA Research.
+FUJITAKE Masato (藤武将人) is a Co-Founder of Fast Accounting, Ltd., Tokyo, Japan, and Chief Research Scientist of its R&D group, FA Research.
 His technical interests include computer vision, and machine learning, especially document analysis recently.
 
 
