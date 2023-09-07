@@ -28,14 +28,13 @@ He is also a reviewer of IEEE conferences.
 
 
 # News (Past year)
+- 2023/09: Our paper "**DTrOCR: Decoder-only Transformer for Optical Character Recognition**" has been accepted in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024! [arXiv](https://arxiv.org/abs/2308.15996)
 - 2023/07: I'll present "**拡散モデルを用いたシーンテキスト認識**" in Poster **IS2-88** at [MIRU 2023](http://cvim.ipsj.or.jp/MIRU2023/program/)!
 - 2023/06: Our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" has been accepted in IEEE ICIP 2023! [arXiv](https://arxiv.org/abs/2306.16707)
 - 2023/06: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has  been recognized as one of the top 3% of all papers accepted at ICASSP 2023!
 - 2023/05: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been available on [IEEE](https://ieeexplore.ieee.org/abstract/document/10096434)!
 - 2023/02: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023! [arXiv](https://arxiv.org/abs/2302.10641)
 - 2022/10: Our open-source project "**Nobunaga: Object Detection Analyzer**" has been available at [github](https://github.com/FastAccounting/nobunaga). It saves your detection error analysis time.
-- 2022/06: Our paper "**Temporal feature enhancement network with external memory for live-stream video object detection**" has been accepted in Pattern Recognition Journal!
-- 2022/06: Our paper "**Video Sparse Transformer with Attention-guided Memory for Video Object Detection**" has been accepted in IEEE ACCESS!
 
 ---
 
