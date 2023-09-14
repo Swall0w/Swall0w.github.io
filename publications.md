@@ -17,7 +17,7 @@ layout: default
 - **Masato Fujitake**. DTrOCR: Decoder-only Transformer for Optical Character Recognition. To be appeard in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
   -  [arXiv](https://arxiv.org/abs/2308.15996)
 - **Masato Fujitake**. DiffusionSTR: Diffusion Model for Scene Text Recognition. To be appeard in IEEE International Conference on Image Processing (ICIP 2023), 2023.
-  -  [arXiv](https://arxiv.org/abs/2306.16707)
+  -  [arXiv](https://arxiv.org/abs/2306.16707), [LINK](https://ieeexplore.ieee.org/document/10222793)
 - **Masato Fujitake**. A3S: Adversarial learning of semantic representations for Scene-Text Spotting. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
   -  [arXiv](https://arxiv.org/abs/2302.10641), [LINK](https://ieeexplore.ieee.org/abstract/document/10096434), [PDF](pdfs/A3S_Adversarial_Learning_of_Semantic_Representations_for_Scene-Text_Spotting.pdf)
 - **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
