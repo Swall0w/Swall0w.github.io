@@ -28,6 +28,7 @@ He is also a reviewer of IEEE conferences.
 
 
 # News (Past year)
+- 2023/09: Our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" has been available on [IEEE](https://ieeexplore.ieee.org/document/10222793)!
 - 2023/09: Our paper "**DTrOCR: Decoder-only Transformer for Optical Character Recognition**" has been accepted in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024! [arXiv](https://arxiv.org/abs/2308.15996)
 - 2023/07: I'll present "**拡散モデルを用いたシーンテキスト認識**" in Poster **IS2-88** at [MIRU 2023](http://cvim.ipsj.or.jp/MIRU2023/program/)!
 - 2023/06: Our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" has been accepted in IEEE ICIP 2023! [arXiv](https://arxiv.org/abs/2306.16707)
