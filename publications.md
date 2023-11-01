@@ -33,7 +33,10 @@ layout: default
 - **Masato Fujitake** and Yoshimi Takashi. Estimation system of construction equipment from field image by combination learning of its parts. In Asian Control Conference (ACCS), 2017.
   - [LINK](https://ieeexplore.ieee.org/document/8287425)
 
-
+## International Conference (Non-refereed)
+- Yuki Okumura and **Masato Fujitake**. FA Team at the NTCIR-17 UFO Task. To be appeared at the NTCIR-17 Conference, 2023.
+  -  [arXiv](https://arxiv.org/abs/2310.20322)
+     
 ## Domestic Conference
 - **藤武将人**,　拡散モデルを用いたシーンテキスト認識, 画像の認識・理解シンポジウムMIRU2023, 2023.
   - [LINK](http://cvim.ipsj.or.jp/MIRU2023/program/) 
