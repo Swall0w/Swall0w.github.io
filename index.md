@@ -28,6 +28,7 @@ He is also a reviewer of IEEE conferences.
 
 
 # News (Past year)
+- 2023/12: Our paper "**FA Team at the NTCIR-17 UFO Task**" has been available at the 17th NTCIR 17 Conference.
 - 2023/11: Our paper "**FA Team at the NTCIR-17 UFO Task**" has been available at [arXiv](https://arxiv.org/abs/2310.20322).
 - 2023/10: We present our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" in IEEE ICIP2023. See you soon.
 - 2023/09: Our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" has been available on [IEEE](https://ieeexplore.ieee.org/document/10222793)!
@@ -37,7 +38,6 @@ He is also a reviewer of IEEE conferences.
 - 2023/06: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has  been recognized as one of the top 3% of all papers accepted at ICASSP 2023!
 - 2023/05: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been available on [IEEE](https://ieeexplore.ieee.org/abstract/document/10096434)!
 - 2023/02: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023! [arXiv](https://arxiv.org/abs/2302.10641)
-- 2022/10: Our open-source project "**Nobunaga: Object Detection Analyzer**" has been available at [github](https://github.com/FastAccounting/nobunaga). It saves your detection error analysis time.
 
 ---
 

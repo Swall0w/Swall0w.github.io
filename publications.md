@@ -11,13 +11,13 @@ layout: default
   - [LINK](https://www.sciencedirect.com/science/article/pii/S0031320322003284?dgcid=author), [PDF](./pdfs/1-s2.0-S0031320322003284-main.pdf)
 - **Masato Fujitake**, Makito Inoue, and Takashi Yoshimi. Development of an Automatic Tracking Camera System Integrating Image Processing and Machine Learning
 . J. Robot. Mechatron., Vol.33, No.6, pp. 1303-1314, 2021.
-  -   [LINK](https://www.fujipress.jp/jrm/rb/robot003300061303/), [PDF](./pdfs/Fujipress_JRM-33-6-10.pdf)
+  - [LINK](https://www.fujipress.jp/jrm/rb/robot003300061303/), [PDF](./pdfs/Fujipress_JRM-33-6-10.pdf)
 
 ## International Conference (refereed)
 - **Masato Fujitake**. DTrOCR: Decoder-only Transformer for Optical Character Recognition. To be appeard in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
   -  [arXiv](https://arxiv.org/abs/2308.15996)
 - **Masato Fujitake**. DiffusionSTR: Diffusion Model for Scene Text Recognition. To be appeard in IEEE International Conference on Image Processing (ICIP 2023), 2023.
-  -  [arXiv](https://arxiv.org/abs/2306.16707), [LINK](https://ieeexplore.ieee.org/document/10222793)
+  -  [arXiv](https://arxiv.org/abs/2306.16707), [PDF](pdfs/ICIP2024_DiffusionSTR.pdf), [LINK](https://ieeexplore.ieee.org/document/10222793)
 - **Masato Fujitake**. A3S: Adversarial learning of semantic representations for Scene-Text Spotting. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
   -  [arXiv](https://arxiv.org/abs/2302.10641), [LINK](https://ieeexplore.ieee.org/abstract/document/10096434), [PDF](pdfs/A3S_Adversarial_Learning_of_Semantic_Representations_for_Scene-Text_Spotting.pdf)
 - **Masato Fujitake** and Akihiro Sugimoto. Video Representation Learning Through Prediction for Online Object Detection. In  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2022.
@@ -35,7 +35,7 @@ layout: default
 
 ## International Conference (Non-refereed)
 - Yuki Okumura and **Masato Fujitake**. FA Team at the NTCIR-17 UFO Task. To be appeared at the NTCIR-17 Conference, 2023.
-  -  [arXiv](https://arxiv.org/abs/2310.20322)
+  -  [arXiv](https://arxiv.org/abs/2310.20322), [PDF](pdfs/02-NTCIR17-UFO-OkumuraY.pdf), [LINK](https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/02-NTCIR17-UFO-OkumuraY.pdf)
      
 ## Domestic Conference
 - **藤武将人**,　拡散モデルを用いたシーンテキスト認識, 画像の認識・理解シンポジウムMIRU2023, 2023.
