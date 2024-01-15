@@ -14,6 +14,8 @@ layout: default
   - [LINK](https://www.fujipress.jp/jrm/rb/robot003300061303/), [PDF](./pdfs/Fujipress_JRM-33-6-10.pdf)
 
 ## International Conference (refereed)
+- **Masato Fujitake**. RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
+  -  [arXiv](https://arxiv.org/abs/2312.16792)
 - **Masato Fujitake**. DTrOCR: Decoder-only Transformer for Optical Character Recognition. To be appeard in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
   -  [arXiv](https://arxiv.org/abs/2308.15996)
 - **Masato Fujitake**. DiffusionSTR: Diffusion Model for Scene Text Recognition. To be appeard in IEEE International Conference on Image Processing (ICIP 2023), 2023.
