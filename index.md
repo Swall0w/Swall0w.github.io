@@ -28,6 +28,8 @@ He is also a reviewer of IEEE conferences.
 
 
 # News (Past year)
+- 2024/01: Our paper "**RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition**" has been accepted to ICASSP2024.
+- 2024/01: We present our paper "**DTrOCR: Decoder-only Transformer for Optical Character Recognition**" in WACV 2024. See you soon.
 - 2023/12: Our paper "**FA Team at the NTCIR-17 UFO Task**" has been available at the 17th NTCIR 17 Conference.
 - 2023/11: Our paper "**FA Team at the NTCIR-17 UFO Task**" has been available at [arXiv](https://arxiv.org/abs/2310.20322).
 - 2023/10: We present our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" in IEEE ICIP2023. See you soon.
