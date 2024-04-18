@@ -14,10 +14,13 @@ layout: default
   - [LINK](https://www.fujipress.jp/jrm/rb/robot003300061303/), [PDF](./pdfs/Fujipress_JRM-33-6-10.pdf)
 
 ## International Conference (refereed)
+- **Masato Fujitake**. LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding. 
+In the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 2024.
+  -  [arXiv](https://arxiv.org/abs/2403.14252)
 - **Masato Fujitake**. RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
-  -  [arXiv](https://arxiv.org/abs/2312.16792)
+  -  [arXiv](https://arxiv.org/abs/2312.16792), [PDF](pdfs/RL-LOGO_Deep_Reinforcement_Learning_Localization_for_Logo_Recognition.pdf), [LINK](https://ieeexplore.ieee.org/document/10447388)
 - **Masato Fujitake**. DTrOCR: Decoder-only Transformer for Optical Character Recognition. To be appeard in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
-  -  [arXiv](https://arxiv.org/abs/2308.15996)
+  -  [arXiv](https://arxiv.org/abs/2308.15996), [LINK](https://openaccess.thecvf.com/content/WACV2024/papers/Fujitake_DTrOCR_Decoder-Only_Transformer_for_Optical_Character_Recognition_WACV_2024_paper.pdf)
 - **Masato Fujitake**. DiffusionSTR: Diffusion Model for Scene Text Recognition. To be appeard in IEEE International Conference on Image Processing (ICIP 2023), 2023.
   -  [arXiv](https://arxiv.org/abs/2306.16707), [PDF](pdfs/ICIP2024_DiffusionSTR.pdf), [LINK](https://ieeexplore.ieee.org/document/10222793)
 - **Masato Fujitake**. A3S: Adversarial learning of semantic representations for Scene-Text Spotting. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
