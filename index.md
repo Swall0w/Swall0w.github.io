@@ -28,6 +28,8 @@ He is also a reviewer of IEEE conferences.
 
 
 # News (Past year)
+- 2024/04: We introduced our paper "**RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition**" in ICASSP2024.
+- 2024/03: Our paper "**LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding**" has been accepted to LREC-COLING2024. It is available on [arXiv](https://arxiv.org/abs/2403.14252)
 - 2024/01: Our paper "**RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition**" has been accepted to ICASSP2024.
 - 2024/01: We present our paper "**DTrOCR: Decoder-only Transformer for Optical Character Recognition**" in WACV 2024. See you soon.
 - 2023/12: Our paper "**FA Team at the NTCIR-17 UFO Task**" has been available at the 17th NTCIR 17 Conference.
@@ -39,7 +41,6 @@ He is also a reviewer of IEEE conferences.
 - 2023/06: Our paper "**DiffusionSTR: Diffusion Model for Scene Text Recognition**" has been accepted in IEEE ICIP 2023! [arXiv](https://arxiv.org/abs/2306.16707)
 - 2023/06: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has  been recognized as one of the top 3% of all papers accepted at ICASSP 2023!
 - 2023/05: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been available on [IEEE](https://ieeexplore.ieee.org/abstract/document/10096434)!
-- 2023/02: Our paper "**A3S: ADVERSARIAL LEARNING OF SEMANTIC REPRESENTATIONS FOR SCENE-TEXT SPOTTING**" has been accepted in IEEE ICASSP 2023! [arXiv](https://arxiv.org/abs/2302.10641)
 
 ---
 
@@ -56,5 +57,7 @@ He is also a reviewer of IEEE conferences.
 # Work Experience
 - Research Engineer, 2016/11 ~ 2022/03,  Fast Accounting, Japan
 - Research Assistant, 2020/04 ~ 2022/02,  National Institute of Informatics, Japan
-- Research Scientist, 2022/04 ~ present, Fast Accounting, Japan
+- Research Scientist, 2022/04 ~ 2023/02, Fast Accounting, Japan
+- Chief Research Scientist, 2023/02 ~ 2024/01, Fast Accounting, Japan
+- Research Director, 2024/01 ~ present, Fast Accounting, Japan
 
