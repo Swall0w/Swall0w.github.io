@@ -16,7 +16,7 @@ layout: default
 ## International Conference (refereed)
 - **Masato Fujitake**. LayoutLLM: Large Language Model Instruction Tuning for Visually Rich Document Understanding. 
 In the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), 2024.
-  -  [arXiv](https://arxiv.org/abs/2403.14252)
+  -  [arXiv](https://arxiv.org/abs/2403.14252), [PDF](pdfs/2024.lrec-main.892.pdf), [LINK](https://aclanthology.org/2024.lrec-main.892/)
 - **Masato Fujitake**. RL-LOGO: Deep Reinforcement Learning Localization for Logo Recognition. In IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
   -  [arXiv](https://arxiv.org/abs/2312.16792), [PDF](pdfs/RL-LOGO_Deep_Reinforcement_Learning_Localization_for_Logo_Recognition.pdf), [LINK](https://ieeexplore.ieee.org/document/10447388)
 - **Masato Fujitake**. DTrOCR: Decoder-only Transformer for Optical Character Recognition. To be appeard in IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.
